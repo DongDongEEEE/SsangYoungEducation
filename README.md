@@ -1,4 +1,4 @@
-![image](https://github.com/DongDongEEEE/SsangYoungEducation/assets/134983411/bb0b38f7-a5c8-421b-b611-e7704974df5c)# SsangYoungEducation
+# SsangYoungEducation
 쌍용교육센터관리시스템프로젝트
 
 ## 🖥️ 프로젝트 소개
